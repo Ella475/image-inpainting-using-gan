@@ -24,6 +24,6 @@ discriminator) looks at different regions of the filled image, which may give th
 possibility to concentrate more on the masked regions.
 
 ## Results
-![result1](results1.png)
-![result2](results2.png)
-![result3](results3.png)
+![result1](results1.png) 
+
+
